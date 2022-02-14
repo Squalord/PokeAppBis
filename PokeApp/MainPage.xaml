@@ -9,7 +9,7 @@
             <views:Accueil/>
         </Tab>
         <Tab Title="Liste" Icon="Pokedex.png">
-            <view:Liste/>
+            <views:Liste/>
         </Tab>
         <Tab Title="Ajout" Icon="Add.png">
             <views:Ajout/>
